@@ -4,10 +4,6 @@ gecotron@github
 ------------------------------
 learning • go, c#, bash.
 hobbies  • gaming, coding, ricing, reading.
-
-repos    • {{ REPOSITORIES }}
-commits  • {{ COMMITS }}
-issues   • {{ ISSUES }}
 ```
 
 
