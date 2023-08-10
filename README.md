@@ -1,8 +1,8 @@
 ## ...
-```haskell
+```
 gecotron@github
 ------------------------------
-learning • go, c#, bash.
+learning • go, c#.
 hobbies  • gaming, coding, ricing, reading.
 ```
 
